@@ -1,6 +1,6 @@
 # UmaMusumeShader
 Shaders for Uma Musume Pretty Derby mobile game models
- [FOR THE LATEST REALEASE CLICK HERE]([https://github.com/nars290/UmaMusumeShader/releases/download/v.3/NarsUmaMusumeShader.unitypackage])
+ [FOR THE LATEST REALEASE CLICK HERE](https://github.com/nars290/UmaMusumeShader/releases/download/v.3/NarsUmaMusumeShader.unitypackage)
 ![Posers_8K_15 04 2021_11-37-38](https://user-images.githubusercontent.com/81712427/114899074-a916a200-9de0-11eb-8d32-d811ae961e0d.png)
 ![Posers_8K_15 04 2021_11-36-23](https://user-images.githubusercontent.com/81712427/114899589-162a3780-9de1-11eb-9ae4-f61cd98b0754.png)
 ![Posers_8K_15 04 2021_11-38-02](https://user-images.githubusercontent.com/81712427/114899604-188c9180-9de1-11eb-9e64-7c7329fb2e91.png)
